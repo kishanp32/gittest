@@ -1,2 +1,2 @@
 # gittest
-tari bhosh
+tari
